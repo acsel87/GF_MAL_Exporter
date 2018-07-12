@@ -56,7 +56,6 @@
     <Compile Include="DataAccess\SqlConnector.cs" />
     <Compile Include="Models\MALModel.cs" />
     <Compile Include="Models\GFModel.cs" />
-    <Compile Include="TextParser.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
